@@ -503,10 +503,7 @@ body {
 	background-color: #fafbfd;
 	padding: 103px 0px 116px 0px;
 }
-.experts__container {
-}
-.experts__statistics {
-}
+
 .experts__block-text {
 	max-width: 400px;
 }
@@ -644,8 +641,7 @@ body {
 .healthcare {
 	padding: 80px 0px 30px 0px;
 }
-.healthcare__container {
-}
+
 .healthcare__block-text {
 	margin: 0px 0px 45px 0px;
 }
@@ -659,8 +655,7 @@ body {
 	flex: 0 1 33.333%;
 }
 
-.healthcare__item {
-}
+
 
 .item-healthcare {
 	height: 100%;
@@ -767,8 +762,7 @@ body {
 	justify-content: center;
 	align-items: center;
 }
-.footer__item {
-}
+
 
 @media (max-width: 500px) {
 	.footer {
